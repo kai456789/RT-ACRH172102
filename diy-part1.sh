@@ -17,5 +17,4 @@
 
 sed -i '$a src-git helloworld https://github.com/fw876/helloworld' feeds.conf.default
 sed -i '$a src-git s36 https://github.com/tcsr200722/luci-app-samba' feeds.conf.default
-sed -i '$a src-git pdnsd https://github.com/op4packages/pdnsd-alt' feeds.conf.default
 # sed -i '$a src-git kenzo https://github.com/kenzok8/openwrt-packages' feeds.conf.default
